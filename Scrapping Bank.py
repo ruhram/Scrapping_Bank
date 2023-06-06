@@ -27,15 +27,13 @@ while True :
         endpoint = endpoint + str(id[len(id)-1])+'&format='+format
         response = requests.get(endpoint)
         resp = response.json()
-        for i in range(len(resp)-1):
-            id.append(resp[i]['place_id'])
-        df = pd.DataFrame(resp)
-        dfs.append(df)
-        s += 1 
-        if s == 2 :
-            break
+        if len(resp) > 0 :
+            for i in range(len(resp)-1):
+                id.append(resp[i]['place_id'])
+            df = pd.DataFrame(resp)
+            dfs.append(df)
         else :
-            continue
+            break
 
 data = pd.concat(dfs, ignore_index=True)
 database = data[['display_name','type','lat','lon']]
