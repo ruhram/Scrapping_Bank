@@ -1,0 +1,287 @@
+display_name,type,lat,lon,alamat,zip,bank,country,provinsi,kota
+"Bank BRI, Jalan Angkasa Raya, RW 10, Gunung Sahari Selatan, Kemayoran, Jakarta Pusat, Daerah Khusus Ibukota Jakarta, 10610, Indonesia",bank,-6.1579232,106.8428513,Jalan Angkasa Raya,10610,BANK BRI,Indonesia,Daerah Khusus Ibukota Jakarta,Jakarta Pusat
+"Bank bri, Jalan Cihampelas, Hegarmanah, Cidadap, Bandung, Jawa Barat, 40131, Indonesia",bank,-6.88398355,107.60448640000001,Jalan Cihampelas,40131,BANK BRI,Indonesia,Jawa Barat,Bandung
+"Bank BRI, Jalan Ahmad Yani, Kesawan, Medan Barat, Kota Medan, Sumatera Utara, Sumatera, 20212, Indonesia",bank,3.5851583,98.6801997,Jalan Ahmad Yani,20212,BANK BRI,Indonesia,Sumatera Utara,Kota Medan
+"Bank BRI, Jalan Siaran, Perumahan Pusri Sako, Sako, Palembang, Sumatera Selatan, 30163, Indonesia",bank,-2.9306482,104.7899397,Jalan Siaran,30163,BANK BRI,Indonesia,Sumatera Selatan,Palembang
+"Bank BRI, Jalan Ahmad Yani, Kesawan, Medan Barat, Kota Medan, Sumatera Utara, Sumatera, 20212, Indonesia",bank,3.5851583,98.6801997,Jalan Ahmad Yani,20212,BANK BRI,Indonesia,Sumatera Utara,Kota Medan
+"Bank BRI, Jalan Sungai Bong, Belakang Tangsi, Padang, Sumatera Barat, 25119, Indonesia",bank,-0.9558681,100.36156700000001,Jalan Sungai Bong,25119,BANK BRI,Indonesia,Sumatera Barat,Padang
+"Bank BRI, Jalan Dr. M. Hatta, Andalas, Padang, Sumatera Barat, 25176, Indonesia",bank,-0.9361232,100.3918382,Jalan Dr. M. Hatta,25176,BANK BRI,Indonesia,Sumatera Barat,Padang
+"Bank BRI, Jalan Pattimura, Klojen, Kota Malang, Jawa Timur, 65111, Indonesia",bank,-7.97320375,112.63778108382259,Jalan Pattimura,65111,BANK BRI,Indonesia,Jawa Timur,Kota Malang
+"Bank BRI, Jalan Jenderal Ahmad Yani, Padasuka, Cibeunying Kidul, Bandung, Jawa Barat, 40125, Indonesia",bank,-6.90751805,107.64505634079295,Jalan Jenderal Ahmad Yani,40125,BANK BRI,Indonesia,Jawa Barat,Bandung
+"Bank BRI, Lorong Kelinci, Lam Glumpang, Ulee Kareng, Banda Aceh, Aceh, 23118, Indonesia",bank,5.551436799999999,95.35310057555483,Lorong Kelinci,23118,BANK BRI,Indonesia,Aceh,Banda Aceh
+"Bank BRI, Jalan Timor Raya, Kec. Kelapa Lima, Oesapa, Kupang, Nusa Tenggara Timur, Nusa Tenggara, 85228, Indonesia",bank,-10.1480547,123.6513242,Jalan Timor Raya,85228,BANK BRI,Indonesia,Nusa Tenggara,Nusa Tenggara Timur
+"Bank BRI, Karimun Jawa Mangrove Tracking, Legon Nipah, Jepara, Jawa Tengah, Jawa, 59455, Indonesia",bank,-5.8274709,110.4700624,Karimun Jawa Mangrove Tracking,59455,BANK BRI,Indonesia,Jawa Tengah,Jepara
+"Bank BRI, Jalan Jambu Mente, SORONG, Klaligi, Sorong, Papua Barat Daya, 98411, Indonesia",bank,-0.88015545,131.26674602128855,Jalan Jambu Mente,98411,BANK BRI,Indonesia,Papua Barat Daya,Sorong
+"Bank BRI, Jalan Yos Sudarso, SORONG, Rufei, Sorong, Papua Barat Daya, 98411, Indonesia",bank,-0.8647027,131.2465713,Jalan Yos Sudarso,98411,BANK BRI,Indonesia,Papua Barat Daya,Sorong
+"Bank BRI, Jalan Selat Makasar, SORONG, Klagete, Sorong, Papua Barat Daya, 98412, Indonesia",bank,-0.889119,131.2841982478813,Jalan Selat Makasar,98412,BANK BRI,Indonesia,Papua Barat Daya,Sorong
+"Bank BRI, Jalan Stadion, Bandar Baru, Kuta Alam, Banda Aceh, Aceh, 23122, Indonesia",bank,5.5634102,95.33991367291713,Jalan Stadion,23122,BANK BRI,Indonesia,Aceh,Banda Aceh
+"Bank BRI, Jalan Dokter Wahidin Sudirohusodo, Ende, Wajo, Makassar, Sulawesi Selatan, 90174, Indonesia",bank,-5.12872275,119.4125612,Jalan Dokter Wahidin Sudirohusodo,90174,BANK BRI,Indonesia,Sulawesi Selatan,Makassar
+"Bank BRI, Jalan Kujali, Bandanaira, Kepulauan Banda, Maluku Tengah, Maluku, 97593, Indonesia",bank,-4.5279358,129.8961934,Jalan Kujali,97593,BANK BRI,Indonesia,Maluku,Maluku Tengah
+"Bank BRI, Jalan Jendral Sudirman, Ciklapa, Cilacap, Jawa Tengah, Jawa, 53261, Indonesia",bank,-7.4861182,108.8022304,Jalan Jendral Sudirman,53261,BANK BRI,Indonesia,Jawa Tengah,Cilacap
+"Bank BRI, Jalan Yos Sudarso, RW 01 Desa Sidareja, Ciklapa, Cilacap, Jawa Tengah, 53261, Indonesia",bank,-7.4861978,108.79185269999999,Jalan Yos Sudarso,53261,BANK BRI,Indonesia,Jawa Tengah,Cilacap
+"Bank BRI, Jalan Merdeka, Pangandaran, Jawa Barat, Jawa, 46396, Indonesia",bank,-7.6840195,108.6524107,Jalan Merdeka,46396,BANK BRI,Indonesia,Jawa Barat,Pangandaran
+"Bank BRI, Jalan Raya Cijulang, Dusun Kalenwadas, Desa Cijulang, Pangandaran, Jawa Barat, Jawa, 46394, Indonesia",bank,-7.7279933,108.4735533,Jalan Raya Cijulang,46394,BANK BRI,Indonesia,Jawa Barat,Pangandaran
+"Bank BRI, Jalan Jendral Gatot Subroto, Nganjuk, Jawa Timur, 64414, Indonesia",bank,-7.5989913,111.89888856178426,Jalan Jendral Gatot Subroto,64414,BANK BRI,Indonesia,Jawa Timur,Nganjuk
+"Bank BRI, Jalan Abimanyu, Demangan, Gondokusuman, Catur Tunggal, Depok, Sleman, Daerah Istimewa Yogyakarta, 55221, Indonesia",bank,-7.78254905,110.3910807,Jalan Abimanyu,55221,BANK BRI,Indonesia,Daerah Istimewa Yogyakarta,Sleman
+"Bank BRI, Jalan Kyai Haji Wahid Hasyim, Panjunan, Astanaanyar, Bandung, Jawa Barat, Jawa, 40232, Indonesia",bank,-6.9307906,107.59737116996024,Jalan Kyai Haji Wahid Hasyim,40232,BANK BRI,Indonesia,Jawa Barat,Bandung
+"Bank BRI, Jalan Penghulu Haji Hasan Mustopa, Padasuka, Cibeunying Kidul, Bandung, Jawa Barat, Jawa, 40125, Indonesia",bank,-6.9006635,107.64529945,Jalan Penghulu Haji Hasan Mustopa,40125,BANK BRI,Indonesia,Jawa Barat,Bandung
+"Bank BRI, Jalan Raya Pajajaran, Bogor Tengah, Bogor, Jawa Barat, Jawa, 16129, Indonesia",bank,-6.5942436,106.80492715,Jalan Raya Pajajaran,16129,BANK BRI,Indonesia,Jawa Barat,Bogor
+"Bank BRI, Jalan Raya Bogor, Nanggewer Mekar, Cibinong, Bogor, Jawa Barat, 16915, Indonesia",bank,-6.49157375,106.8466316257288,Jalan Raya Bogor,16915,BANK BRI,Indonesia,Jawa Barat,Bogor
+"Bank BRI, Jalan Gunung Batukaru, Pemecutan, Denpasar Barat, Bali, 80118, Indonesia",bank,-8.6599162,115.2018663,Jalan Gunung Batukaru,80118,BANK BRI,Indonesia,Bali,Denpasar Barat
+"Bank BRI, Jalan Ngemplak-Pakem, Sukoharjo, Sleman, Daerah Istimewa Yogyakarta, Jawa, 55584, Indonesia",bank,-7.6977185,110.4423855,Jalan Ngemplak-Pakem,55584,BANK BRI,Indonesia,Daerah Istimewa Yogyakarta,Sleman
+"Bank BRI, 48, Jalan Thamrin, Pemecutan, Denpasar Barat, Bali, 80232, Indonesia",bank,-8.6556644,115.210429,Jalan Thamrin,80232,BANK BRI,Indonesia,Bali,Denpasar Barat
+"Bank BRI, Jalan Gajah Mada, Dauh Puri Kangin, Denpasar Barat, Bali, 80232, Indonesia",bank,-8.6561348,115.2152902048077,Jalan Gajah Mada,80232,BANK BRI,Indonesia,Bali,Denpasar Barat
+"Bank BRI, Jalan Raya Tatehe, RT 08 Kelurahan Sawang Bendar, Apeng Sembeka, Kelurahan Sawang Bendar, Kepulauan Sangihe, Sulawesi Utara, Indonesia",bank,3.6092487,125.4923064460399,Jalan Raya Tatehe,0,BANK BRI,Indonesia,Kepulauan Sangihe,Kelurahan Sawang Bendar
+"Bank BRI, Jalan Dokter Setiabudi, Hegarmanah, Cidadap, Bandung, Jawa Barat, Jawa, 40153, Indonesia",bank,-6.8721205,107.594688,Jalan Dokter Setiabudi,40153,BANK BRI,Indonesia,Jawa Barat,Bandung
+"Bank BRI, Jalan Laksda Adi Sucipto, Purwodadi, Kota Malang, Jawa Timur, Jawa, 65126, Indonesia",bank,-7.9434533,112.6478205,Jalan Laksda Adi Sucipto,65126,BANK BRI,Indonesia,Jawa Timur,Kota Malang
+"Bank BRI, Jalan Nusantara Raya, Depok Jaya, Pancoran Mas, Depok, Bogor, Jawa Barat, Jawa, 16422, Indonesia",bank,-6.3903115,106.8142847,Jalan Nusantara Raya,16422,BANK BRI,Indonesia,Jawa Barat,Bogor
+"BANK BRI, 21, Kamal, Bangkalan, Jawa Timur, 60165, Indonesia",bank,-7.1724929,112.72432865304913,Kamal,60165,BANK BRI,Indonesia,Jawa Timur,Bangkalan
+"Bank BRI, Pakisjajar - Tumpang, Saptorenggo, Kabupaten Malang, Jawa Timur, Jawa, 65124, Indonesia",bank,-7.9502648,112.6654553,Pakisjajar - Tumpang,65124,BANK BRI,Indonesia,Jawa Timur,Kabupaten Malang
+"Bank BRI, Jalan Imam Bonjol, Pemecutan Kelod, Denpasar Barat, Bali, Nusa Tenggara, 80119, Indonesia",bank,-8.6916429,115.18944288094525,Jalan Imam Bonjol,80119,BANK BRI,Indonesia,Nusa Tenggara,Bali
+"Bank BRI, Jalan Bantul, Balai Benih Ikan Lambao, Panggungharjo, Sewon, Bantul, Daerah Istimewa Yogyakarta, 55188, Indonesia",bank,-7.8332802,110.3535595,Jalan Bantul,55188,BANK BRI,Indonesia,Daerah Istimewa Yogyakarta,Bantul
+"Bank BRI, Jalan Karangrejo Raya, RW 07, Srondol Wetan, Banyumanik, Semarang, Jawa Tengah, Jawa, 50265, Indonesia",bank,-7.0744938,110.415245,Jalan Karangrejo Raya,50265,BANK BRI,Indonesia,Jawa Tengah,Semarang
+"Bank BRI, Jalan Brigadir Jenderal Sudiarto, RW 01, Penggaron Kidul, Pedurungan, Semarang, Jawa Tengah, Jawa, 50193, Indonesia",bank,-7.0166141,110.48709321235046,Jalan Brigadir Jenderal Sudiarto,50193,BANK BRI,Indonesia,Jawa Tengah,Semarang
+"Bank BRI, Jalan Brigadir Jenderal Sudiarto, RW 05, Pedurungan Lor, Pedurungan, Semarang, Jawa Tengah, Jawa, 50193, Indonesia",bank,-7.0156962499999995,110.48471545000001,Jalan Brigadir Jenderal Sudiarto,50193,BANK BRI,Indonesia,Jawa Tengah,Semarang
+"Bank BRI, Jalan Adi Sucipto, Colomadu, Karanganyar, Jawa Tengah, Jawa, 57173, Indonesia",bank,-7.53299595,110.75127303035518,Jalan Adi Sucipto,57173,BANK BRI,Indonesia,Jawa Tengah,Karanganyar
+"Bank BRI, Jalan Brigadir Jenderal Slamet Riyadi, Jayengan, Surakarta, Kecamatan Serengan, Jawa Tengah, Jawa, 57131, Indonesia",bank,-7.5674836,110.8148104,Jalan Brigadir Jenderal Slamet Riyadi,57131,BANK BRI,Indonesia,Jawa Tengah,Kecamatan Serengan
+"Bank BRI, Jalan Adi Sucipto, Colomadu, Karanganyar, Jawa Tengah, Jawa, 57173, Indonesia",bank,-7.5331077,110.7512568,Jalan Adi Sucipto,57173,BANK BRI,Indonesia,Jawa Tengah,Karanganyar
+"Bank BRI, Jalan Raya Solo - Ngawi, Masaran, Sragen, Jawa Tengah, Jawa, Indonesia",bank,-7.4720608,110.9284787,Jalan Raya Solo - Ngawi,Jawa,BANK BRI,Indonesia,Jawa Tengah,Sragen
+"Bank BRI, Jalan Ambarwati No. 1, Mas, Ubud, Gianyar, Bali, 80571, Indonesia",bank,-8.5425748,115.2720551,Jalan Ambarwati No. 1,80571,BANK BRI,Indonesia,Bali,Gianyar
+"Bank BRI, Jalan Petitenget, Kerobokan Klod, Badung, Bali, 08361, Indonesia",bank,-8.6718783,115.1643034,Jalan Petitenget,08361,BANK BRI,Indonesia,Bali,Badung
+"Bank BRI, Jalan Otto Iskandardinata, Pungkur, Regol, Bandung, Jawa Barat, 40252, Indonesia",bank,-6.93083015,107.60359167622549,Jalan Otto Iskandardinata,40252,BANK BRI,Indonesia,Jawa Barat,Bandung
+"Bank BRI, Jalan Raya Tuban - Palang, Karangagung Timur, Karangagung, Palang, Tuban, Jawa Timur, Jawa, 62391, Indonesia",bank,-6.9004434,112.1691913,Jalan Raya Tuban - Palang,62391,BANK BRI,Indonesia,Jawa Timur,Tuban
+"Bank BRI, Jalan Diponegoro, Kutoarjo, Purworejo, Jawa Tengah, Jawa, 54212, Indonesia",bank,-7.7234277,109.9059755,Jalan Diponegoro,54212,BANK BRI,Indonesia,Jawa Tengah,Purworejo
+"Bank BRI, Jalan Rajawali, Sampang, Jawa Timur, 69211, Indonesia",bank,-7.1984548,113.24276161375377,Jalan Rajawali,69211,BANK BRI,Indonesia,Jawa Timur,Sampang
+"BANK BRI, JI-230, Madulang, Sampang, Jawa Timur, Indonesia",bank,-7.11720365,113.3275295,Madulang,0,BANK BRI,Indonesia,Jawa Timur,Sampang
+"BANK BRI, Jalan KH. Wahid Hasyim, Sampang, Jawa Timur, 69211, Indonesia",bank,-7.18897705,113.24433034282983,Jalan KH. Wahid Hasyim,69211,BANK BRI,Indonesia,Jawa Timur,Sampang
+"Bank BRI, Gang Dahlia III, Banjarangkan, Klungkung, Bali, 80716, Indonesia",bank,-8.550680849999999,115.37366249780118,Gang Dahlia III,80716,BANK BRI,Indonesia,Bali,Klungkung
+"Bank BRI, Gang Bri, Syahmad, Lubuk Pakam, Deli Serdang, Sumatera Utara, Indonesia",bank,3.55365645,98.87246600167067,Gang Bri,0,BANK BRI,Indonesia,Deli Serdang,Lubuk Pakam
+"Bank bri, Jalan Petitenget, Kerobokan Klod, Badung, Bali, 08361, Indonesia",bank,-8.6719105,115.1642813,Jalan Petitenget,08361,BANK BRI,Indonesia,Bali,Badung
+"Bank BRI, Jalan Pakis Aji, Demaan, Jepara, Jawa Tengah, Jawa, 59411, Indonesia",bank,-6.5978002,110.6759132,Jalan Pakis Aji,59411,BANK BRI,Indonesia,Jawa Tengah,Jepara
+"BANK BRI, Jalan Jenderal Gatot Subroto, Sokaraja, Banyumas, Jawa Tengah, Jawa, 53191, Indonesia",bank,-7.45868585,109.29859844902785,Jalan Jenderal Gatot Subroto,53191,BANK BRI,Indonesia,Jawa Tengah,Banyumas
+"Bank BRI, Jalan Pusur, Kebonharjo, Klaten, Jawa Tengah, Jawa, 57482, Indonesia",bank,-7.6034136,110.6479917,Jalan Pusur,57482,BANK BRI,Indonesia,Jawa Tengah,Klaten
+"Bank BRI, Jalan Ceper, Ceper, Klaten, Jawa Tengah, Jawa, 57465, Indonesia",bank,-7.6750077,110.67960585967441,Jalan Ceper,57465,BANK BRI,Indonesia,Jawa Tengah,Klaten
+"Bank BRI, Jalan Jogja - Solo, Jombor, Klaten, Jawa Tengah, Jawa, 57465, Indonesia",bank,-7.6742706,110.65363575,Jalan Jogja - Solo,57465,BANK BRI,Indonesia,Jawa Tengah,Klaten
+"Bank BRI, Jalan Raya Solo - Ngawi, Karanganyar, Sragen, Jawa Tengah, Jawa, Indonesia",bank,-7.378228,111.1000367,Jalan Raya Solo - Ngawi,Jawa,BANK BRI,Indonesia,Jawa Tengah,Sragen
+"Bank BRI, Jalan Pandanaran, Boyolali, Jawa Tengah, Jawa, 57313, Indonesia",bank,-7.5335128,110.6014341,Jalan Pandanaran,57313,BANK BRI,Indonesia,Jawa Tengah,Boyolali
+"Bank BRI (Persero), Jalan Jenderal Urip Sumoharjo, Purworejo, Jawa Tengah, Jawa, 54151, Indonesia",bank,-7.712763300000001,110.01126830145321,Jalan Jenderal Urip Sumoharjo,54151,BANK BRI (PERSERO),Indonesia,Jawa Tengah,Purworejo
+"Bank BRI, Jalan Raya Ngrambe - Sine, Ngawi, Jawa Timur, Jawa, 63263, Indonesia",bank,-7.5128077,111.2025805,Jalan Raya Ngrambe - Sine,63263,BANK BRI,Indonesia,Jawa Timur,Ngawi
+"Bank BRI, Jalan Abdul Haris Nasution, Cipadung Kulon, Panyileukan, Bandung, Jawa Barat, Jawa, 40614, Indonesia",bank,-6.919348749999999,107.70804525005302,Jalan Abdul Haris Nasution,40614,BANK BRI,Indonesia,Jawa Barat,Bandung
+"Bank BRI, Jalan W.R. Supratman, Cangkrep Lor, Purworejo, Jawa Tengah, Jawa, 54118, Indonesia",bank,-7.7223649,110.0235325,Jalan W.R. Supratman,54118,BANK BRI,Indonesia,Jawa Tengah,Purworejo
+"Bank BRI, Jalan Raya Karanganyar, Karanganyar, Purbalingga, Jawa Tengah, Jawa, 53354, Indonesia",bank,-7.3044137,109.41185209196752,Jalan Raya Karanganyar,53354,BANK BRI,Indonesia,Jawa Tengah,Purbalingga
+"Bank BRI, Jalan Joyoningrat, Srumbung, Magelang, Jawa Tengah, Jawa, 56483, Indonesia",bank,-7.5982745000000005,110.32986038108677,Jalan Joyoningrat,56483,BANK BRI,Indonesia,Jawa Tengah,Magelang
+"Bank BRI, Jalan Tempel-Sayegan, Margomulyo, Seyegan, Sleman, Daerah Istimewa Yogyakarta, 55561, Indonesia",bank,-7.7198641,110.3087791,Jalan Tempel-Sayegan,55561,BANK BRI,Indonesia,Daerah Istimewa Yogyakarta,Sleman
+"Bank BRI, *, Tanjungharjo, Nanggulan, Kulon Progo, Daerah Istimewa Yogyakarta, Jawa, 55563, Indonesia",bank,-7.7669561,110.2091889,Tanjungharjo,55563,BANK BRI,Indonesia,Daerah Istimewa Yogyakarta,Kulon Progo
+"BANK BRI, Jalan Diponegoro, Kel. Fakfak Selatan, Fakfak, Papua Barat, 98100, Indonesia",bank,-2.9307324,132.30807602340425,Jalan Diponegoro,98100,BANK BRI,Indonesia,Papua Barat,Fakfak
+"Bank BRI, Jalan Bypass Ngurah Rai, Sanur Kaja, Denpasar Selatan, Bali, 80030, Indonesia",bank,-8.67760075,115.25903285,Jalan Bypass Ngurah Rai,80030,BANK BRI,Indonesia,Bali,Denpasar Selatan
+"Bank BRI, Jalan Mahendradatta, Padangsambian, Denpasar Barat, Bali, 80119, Indonesia",bank,-8.6698744,115.1907883,Jalan Mahendradatta,80119,BANK BRI,Indonesia,Bali,Denpasar Barat
+"Bank BRI, Jalan Gajah Mada, Benua Melayu Darat, Pontianak Selatan, Pontianak, Kalimantan Barat, 78117, Indonesia",bank,-0.03957185,109.34370855762357,Jalan Gajah Mada,78117,BANK BRI,Indonesia,Kalimantan Barat,Pontianak
+"BANK BRI, Jalan Jakarta, Kacapiring, Batununggal, Bandung, Jawa Barat, 40272, Indonesia",bank,-6.9147667,107.6365085,Jalan Jakarta,40272,BANK BRI,Indonesia,Jawa Barat,Bandung
+"Bank BRI, Jalan Jenderal Ahmad Yani, RW 02 Kel. Tambakreja, Desa Tambakreja, Cilacap, Jawa Tengah, 53222, Indonesia",bank,-7.736454950000001,109.00912802470108,Jalan Jenderal Ahmad Yani,53222,BANK BRI,Indonesia,Jawa Tengah,Cilacap
+"Bank BRI, Jalan Perjuangan, T U K, Jawa Barat, 45132, Indonesia",bank,-6.73421315,108.53980085,Jalan Perjuangan,45132,BANK BRI,Indonesia,Jawa Barat,T U K
+"BANK BRI, Jalan Kidang Pananjung, Dusun Pangandaran Timur, Pangandaran, Desa Pagandaran, Pangandaran, Jawa Barat, Jawa, 49396, Indonesia",bank,-7.701833000000001,108.65755615044554,Jalan Kidang Pananjung,49396,BANK BRI,Indonesia,Jawa Barat,Pangandaran
+"Bank BRI, Jalan Kyai Haji Ali Maksum, Suryodiningratan, Mantrijeron, Kota Yogyakarta, Sewon, Bantul, Daerah Istimewa Yogyakarta, 55141, Indonesia",bank,-7.8249808,110.3608743,Jalan Kyai Haji Ali Maksum,55141,BANK BRI,Indonesia,Daerah Istimewa Yogyakarta,Bantul
+"Bank BRI, Gang Anggrek Putih, Sungai Raya, Kubu Raya, Kalimantan Barat, 78122, Indonesia",bank,-0.0753455,109.3804413,Gang Anggrek Putih,78122,BANK BRI,Indonesia,Kalimantan Barat,Kubu Raya
+"Bank BRI, Jalan Depati Gegedek, Tanjung Pandan, Belitung, Kepulauan Bangka Belitung, 33412, Indonesia",bank,-2.7409874,107.63091,Jalan Depati Gegedek,33412,BANK BRI,Indonesia,Kepulauan Bangka Belitung,Belitung
+"Bank BRI, Jalan Merdeka, Tanjung Pandan, Belitung, Kepulauan Bangka Belitung, 33412, Indonesia",bank,-2.7413267,107.63499876465693,Jalan Merdeka,33412,BANK BRI,Indonesia,Kepulauan Bangka Belitung,Belitung
+"Bank BRI, Skybridge LRT Velodrome Halte Pemuda, RW 01, Jati, Pulo Gadung, Jakarta Timur, Daerah Khusus Ibukota Jakarta, Jawa, 13250, Indonesia",bank,-6.1931792,106.8915868,Skybridge LRT Velodrome Halte Pemuda,13250,BANK BRI,Indonesia,Daerah Khusus Ibukota Jakarta,Jakarta Timur
+"Bank BRI, Jalan Peta, Sukaasih, Bojongloa Kaler, Bandung, Jawa Barat, 40232, Indonesia",bank,-6.93523015,107.5917985619153,Jalan Peta,40232,BANK BRI,Indonesia,Jawa Barat,Bandung
+"Bank BRI, Jalan Abdul Haris Nasution, Cipadung Wetan, Panyileukan, Bandung, Jawa Barat, Jawa, 40614, Indonesia",bank,-6.9332746499999995,107.7160373,Jalan Abdul Haris Nasution,40614,BANK BRI,Indonesia,Jawa Barat,Bandung
+"Bank BRI, Jalan Cimanuk, Citarum, Bandung Wetan, Bandung, Jawa Barat, 40113, Indonesia",bank,-6.9056483,107.62062282926136,Jalan Cimanuk,40113,BANK BRI,Indonesia,Jawa Barat,Bandung
+"Bank BRI, Jalan Sutomo, Binjai, Kota Binjai, Sumatera Utara, 20711, Indonesia",bank,3.610902,98.4940899,Jalan Sutomo,20711,BANK BRI,Indonesia,Sumatera Utara,Kota Binjai
+"Bank BRI, Otto Iskandardinata, Subang, Jawa Barat, Jawa, 41211, Indonesia",bank,-6.562813650000001,107.76705945771772,Otto Iskandardinata,41211,BANK BRI,Indonesia,Jawa Barat,Subang
+"Bank BRI, Jalan Leuwisari, Dusun Empang, Desa Arjasari, Desa Arjasari, Tasikmalaya, Jawa Barat, Jawa, 46412, Indonesia",bank,-7.338239850000001,108.10615106619095,Jalan Leuwisari,46412,BANK BRI,Indonesia,Jawa Barat,Tasikmalaya
+"Bank BRI, Jalan Jendral Achmad Yani, Sidokumpul, Sidoarjo, Jawa Timur, 61200, Indonesia",bank,-7.4483814,112.7186191,Jalan Jendral Achmad Yani,61200,BANK BRI,Indonesia,Jawa Timur,Sidoarjo
+"Bank BRI, Jalan Persatuan, Catur Tunggal, Depok, Sleman, Daerah Istimewa Yogyakarta, 55281, Indonesia",bank,-7.7749128,110.3755773,Jalan Persatuan,55281,BANK BRI,Indonesia,Daerah Istimewa Yogyakarta,Sleman
+"Bank BRI, Jalan Boulevard Barat, RW 07, Kelapa Gading Barat, Kelapa Gading, Jakarta Utara, Daerah Khusus Ibukota Jakarta, Jawa, 14240, Indonesia",bank,-6.1569728,106.8998936,Jalan Boulevard Barat,14240,BANK BRI,Indonesia,Daerah Khusus Ibukota Jakarta,Jakarta Utara
+"Bank BRI, Amphibi, Argapura, Ardipura, Jayapura, Papua, 99116, Indonesia",bank,-2.5679288,140.7022965,Argapura,99116,BANK BRI,Indonesia,Jayapura,Ardipura
+"Bank BRI, 8-H, Jalan Asrama, Medan Helvetia, Kota Medan, Sumatera Utara, 20351, Indonesia",bank,3.5988365,98.6272784,Jalan Asrama,20351,BANK BRI,Indonesia,Sumatera Utara,Kota Medan
+"Bank BRI, Jalan Laksamana RE Martadinata, Pondok Cabe Udik, Pamulang, Tangerang Selatan, Banten, 15418, Indonesia",bank,-6.3457293,106.7499825,Jalan Laksamana RE Martadinata,15418,BANK BRI,Indonesia,Banten,Tangerang Selatan
+"Bank BRI, Jalan Cabe Raya, Pondok Cabe City Market, Pondok Cabe Udik, Pamulang, Tangerang Selatan, Banten, 15418, Indonesia",bank,-6.3443673,106.7588444,Jalan Cabe Raya,15418,BANK BRI,Indonesia,Banten,Tangerang Selatan
+"Bank BRI, Jalan Nasution, Dum Timur, Sorong, Papua Barat Daya, 98411, Indonesia",bank,-0.88665355,131.2397037,Jalan Nasution,98411,BANK BRI,Indonesia,Papua Barat Daya,Sorong
+"Bank BRI, Dusun Ciawi II, Desa Bojonggambir, Ciroyom, Tasikmalaya, Jawa Barat, Indonesia",bank,-7.5104150999999995,107.97631987537058,Dusun Ciawi II,0,BANK BRI,Indonesia,Jawa Barat,Tasikmalaya
+"Bank BRI, Jalan Raya Cikalong, Dusun Cilutung, Desa Cikalong, Desa Cikalong, Tasikmalaya, Jawa Barat, Indonesia",bank,-7.76317315,108.17343605,Jalan Raya Cikalong,0,BANK BRI,Indonesia,Jawa Barat,Tasikmalaya
+"Bank BRI, Kemiri, Hinekombe, Sentani, Jayapura, Papua, 99532, Indonesia",bank,-2.5617791,140.497475,Hinekombe,99532,BANK BRI,Indonesia,Jayapura,Sentani
+"Bank BRI, Jalan W.J. Lala Mentik, Atambua, Belu, Nusa Tenggara Timur, 85711, Indonesia",bank,-9.105849150000001,124.88591260469806,Jalan W.J. Lala Mentik,85711,BANK BRI,Indonesia,Nusa Tenggara Timur,Belu
+"Bank BRI, Jalan Trikora, Dum Timur, Sorong, Papua Barat Daya, 98411, Indonesia",bank,-0.8862192499999999,131.2399529766699,Jalan Trikora,98411,BANK BRI,Indonesia,Papua Barat Daya,Sorong
+"Bank BRI, Jalan Yos Sudarso, Lantipo, Sinakma, Wamena, Jayawijaya, Papua Pegunungan, 99511, Indonesia",bank,-4.1031966,138.9336643,Jalan Yos Sudarso,99511,BANK BRI,Indonesia,Papua Pegunungan,Jayawijaya
+"Bank BRI, Jalan JB Wenas, Hom-Hom, Wamena, Jayawijaya, Papua Pegunungan, 99511, Indonesia",bank,-4.0703111,138.9392665,Jalan JB Wenas,99511,BANK BRI,Indonesia,Papua Pegunungan,Jayawijaya
+"Bank BRI, Jalan Jenderal Sudirman, Sanggeng, Manokwari, Papua Barat, 98312, Indonesia",bank,-0.8668229,134.065342,Jalan Jenderal Sudirman,98312,BANK BRI,Indonesia,Papua Barat,Manokwari
+"Bank BRI, Jalan Mota'ain Timor, Belu, Nusa Tenggara Timur, Indonesia",bank,-8.991582399999999,124.87041838440919,Jalan Mota'ain Timor,0,BANK BRI,Indonesia,Jalan Mota'ain Timor,Bank BRI
+"Bank BRI, Jalan Dokter Sam Ratulangi, Pasir Hitam, Serui Kota, Kepulauan Yapen, Papua, 98211, Indonesia",bank,-1.8828748499999999,136.24386099801768,Jalan Dokter Sam Ratulangi,98211,BANK BRI,Indonesia,Kepulauan Yapen,Serui Kota
+"Bank BRI, Jalan Bypass Gatot Subroto, Tonja, Denpasar Utara, Bali, 80115, Indonesia",bank,-8.63576725,115.22326741039728,Jalan Bypass Gatot Subroto,80115,BANK BRI,Indonesia,Bali,Denpasar Utara
+"Bank BRI, Jalan WR. Supratman, Kesiman Kertalangu, Denpasar Timur, Bali, 80237, Indonesia",bank,-8.640435,115.2526334476837,Jalan WR. Supratman,80237,BANK BRI,Indonesia,Bali,Denpasar Timur
+"Bank BRI, 4, Hang Tuah, Sanur Kaja, Denpasar Selatan, Bali, 80030, Indonesia",bank,-8.6738869,115.2453187,Hang Tuah,80030,BANK BRI,Indonesia,Bali,Denpasar Selatan
+"Bank BRI, Jalan G. Gamalama, Sorowako, Luwu Timur, Nikkel, Sulawesi Selatan, 92983, Indonesia",bank,-2.5276693,121.358345,Jalan G. Gamalama,92983,BANK BRI,Indonesia,Sulawesi Selatan,Nikkel
+"Bank BRI, Jalan Jenderal Sudirman, Luwu Utara, Masamba, Sulawesi Selatan, Indonesia",bank,-2.5520620999999997,120.32041175,Jalan Jenderal Sudirman,0,BANK BRI,Indonesia,Sulawesi Selatan,Masamba
+"Bank BRI, Jalan Ahmad Yani, Talumolo, Gorontalo, 96112, Indonesia",bank,0.5334723,123.0602727,Jalan Ahmad Yani,96112,BANK BRI,Indonesia,Talumolo,Jalan Ahmad Yani
+"Bank BRI, Jalan Al-Khairaat, Boyangapa, Kecamatan Mantikulore, Palu, Sulawesi Tengah, 94119, Indonesia",bank,-0.8382282000000001,119.88349052544987,Jalan Al-Khairaat,94119,BANK BRI,Indonesia,Sulawesi Tengah,Palu
+"Bank BRI, Jalan Trans Sulawesi, RW 01, Bantaya, Parigi Moutong, Sulawesi Tengah, 94471, Indonesia",bank,-0.8080702,120.1735015155477,Jalan Trans Sulawesi,94471,BANK BRI,Indonesia,Sulawesi Tengah,Parigi Moutong
+"Bank BRI, Jembatan Soeharto, Dusun Hapit, Desa Noelmina, Kupang, Nusa Tenggara Timur, Nusa Tenggara, Indonesia",bank,-9.975946,124.08000845000001,Jembatan Soeharto,0,BANK BRI,Indonesia,Nusa Tenggara Timur,Kupang
+"Bank BRI, Jalan Cendrawasih 2, Lewoleba, Lembata, Nusa Tenggara Timur, 86611, Indonesia",bank,-8.371871,123.4159117,Jalan Cendrawasih 2,86611,BANK BRI,Indonesia,Nusa Tenggara Timur,Lembata
+"Bank BRI, Jalan Melati, Kelimutu, Ende, Nusa Tenggara Timur, 86319, Indonesia",bank,-8.8335146,121.66762236295241,Jalan Melati,86319,BANK BRI,Indonesia,Nusa Tenggara Timur,Ende
+"Bank BRI, Jalan Basoeki Rahmat, Bajawa, Ngada, Nusa Tenggara Timur, 86412, Indonesia",bank,-8.7884446,120.9746141,Jalan Basoeki Rahmat,86412,BANK BRI,Indonesia,Nusa Tenggara Timur,Ngada
+"Bank BRI, Jalan Dokter Sam Ratulangi, Pasir Hitam, Serui Kota, Kepulauan Yapen, Papua, 98211, Indonesia",bank,-1.88614825,136.24208270000003,Jalan Dokter Sam Ratulangi,98211,BANK BRI,Indonesia,Kepulauan Yapen,Serui Kota
+"Bank BRI, Jalan Lanto Daeng Pasewang, RW 02 Desa Alliritengae, Maros, Raya, Sulawesi Selatan, 90511, Indonesia",bank,-5.0056431,119.5716376951141,Jalan Lanto Daeng Pasewang,90511,BANK BRI,Indonesia,Sulawesi Selatan,Raya
+"Bank BRI, Jalan Parumpa, Daya, Biringkanaya, Makassar, Sulawesi Selatan, 90241, Indonesia",bank,-5.11506425,119.50822285000001,Jalan Parumpa,90241,BANK BRI,Indonesia,Sulawesi Selatan,Makassar
+"Bank BRI, Jalan Paccerakkang, Berua, Biringkanaya, Makassar, Sulawesi Selatan, 90242, Indonesia",bank,-5.11385485,119.5143683,Jalan Paccerakkang,90242,BANK BRI,Indonesia,Sulawesi Selatan,Makassar
+"Bank BRI, Jalan Perintis Kemerdekaan, Daya, Biringkanaya, Makassar, Sulawesi Selatan, 90242, Indonesia",bank,-5.1020781,119.51079046801658,Jalan Perintis Kemerdekaan,90242,BANK BRI,Indonesia,Sulawesi Selatan,Makassar
+"Bank BRI, Jalan Perintis Kemerdekaan, Patte'ne, Sudiang, Biringkanaya, Makassar, Sulawesi Selatan, 90242, Indonesia",bank,-5.0743504,119.52284740548869,Jalan Perintis Kemerdekaan,90242,BANK BRI,Indonesia,Sulawesi Selatan,Makassar
+"BANK BRi, Jalan Poros Pekkae, Ralla dan Soppeng, Soppeng, Tettikengrarae, Sulawesi Selatan, 90862, Indonesia",bank,-4.45831135,119.9511099,Jalan Poros Pekkae,90862,BANK BRI,Indonesia,Sulawesi Selatan,Tettikengrarae
+"Bank BRI, Jalan Kalino, Soppeng, Watansoppeng, Sulawesi Selatan, Indonesia",bank,-4.34848805,119.88602107170979,Jalan Kalino,0,BANK BRI,Indonesia,Sulawesi Selatan,Watansoppeng
+"Bank BRI, Jalan Karaeng Burane, Ujung Bulu, Parepare, Sulawesi Selatan, 91111, Indonesia",bank,-4.0125523,119.6238043,Jalan Karaeng Burane,91111,BANK BRI,Indonesia,Sulawesi Selatan,Parepare
+"BANK BRI, Jalan Lasindrang, Ujung Sabbang, Parepare, Sulawesi Selatan, 91111, Indonesia",bank,-4.00656345,119.62279835,Jalan Lasindrang,91111,BANK BRI,Indonesia,Sulawesi Selatan,Parepare
+"Bank BRI, Jalan Sungai Kiru-Kiru, Mangkoso, Barru, Sulawesi Selatan, Indonesia",bank,-4.2646581,119.62907955,Jalan Sungai Kiru-Kiru,0,BANK BRI,Indonesia,Sulawesi Selatan,Barru
+"Bank BRI, Jalan Tala' Salapang, Gunung Sari, Rappocini, Makassar, Sulawesi Selatan, 90222, Indonesia",bank,-5.1821963,119.4440254,Jalan Tala' Salapang,90222,BANK BRI,Indonesia,Sulawesi Selatan,Makassar
+"Bank Bri, Jalan Tinumbu, Layang, Bontoala, Makassar, Sulawesi Selatan, 90213, Indonesia",bank,-5.1210992,119.4201389,Jalan Tinumbu,90213,BANK BRI,Indonesia,Sulawesi Selatan,Makassar
+"Bank BRI, Jalan S. Saddang Lama, Pisang Selatan, Makassar, Sulawesi Selatan, 90142, Indonesia",bank,-5.1462274,119.4201337,Jalan S. Saddang Lama,90142,BANK BRI,Indonesia,Sulawesi Selatan,Makassar
+"Bank BRI, Jalan Bau Massepe, Bulogading, Ujung Pandang, Makassar, Sulawesi Selatan, 90171, Indonesia",bank,-5.138263,119.4071222,Jalan Bau Massepe,90171,BANK BRI,Indonesia,Sulawesi Selatan,Makassar
+"Bank BRI, Jalan Cendrawasih, Karang Anyar, Mamajang, Makassar, Sulawesi Selatan, 90224, Indonesia",bank,-5.1741063,119.4101247,Jalan Cendrawasih,90224,BANK BRI,Indonesia,Sulawesi Selatan,Makassar
+"Bank BRI, Jalan Tinumbu Lorong 165, Pannampu, Tallo, Makassar, Sulawesi Selatan, 90213, Indonesia",bank,-5.117183,119.4240046,Jalan Tinumbu Lorong 165,90213,BANK BRI,Indonesia,Sulawesi Selatan,Makassar
+"Bank BRI, Jalan, Mamuju, Sulawesi Barat, 91515, Indonesia",bank,-2.6800877,118.8773548,Mamuju,91515,BANK BRI,Indonesia,Sulawesi Barat,Mamuju
+"Bank BRI, Jalan Yos Sudarso, Ruteng, Manggarai, Nusa Tenggara Timur, 86513, Indonesia",bank,-8.6076304,120.4664851,Jalan Yos Sudarso,86513,BANK BRI,Indonesia,Nusa Tenggara Timur,Manggarai
+"Bank BRI, Jalan WR. Supratman, Kesiman, Denpasar Timur, Bali, 80237, Indonesia",bank,-8.648126099999999,115.23737072914145,Jalan WR. Supratman,80237,BANK BRI,Indonesia,Bali,Denpasar Timur
+"Bank BRI, Jalan Tentara Pelajar, Butung, Wajo, Makassar, Sulawesi Selatan, 90173, Indonesia",bank,-5.1218886,119.40986973630848,Jalan Tentara Pelajar,90173,BANK BRI,Indonesia,Sulawesi Selatan,Makassar
+"Bank BRI, Jalan Permandian Alam, Pattukangang, Barombong, Tamalate, Makassar, Sulawesi Selatan, 90225, Indonesia",bank,-5.2079497,119.38749723103743,Jalan Permandian Alam,90225,BANK BRI,Indonesia,Sulawesi Selatan,Makassar
+"Bank BRI, Jalan Bulu Dua, Lariang Bangi, Makassar, Sulawesi Selatan, 90145, Indonesia",bank,-5.13773655,119.42271047832625,Jalan Bulu Dua,90145,BANK BRI,Indonesia,Sulawesi Selatan,Makassar
+"Bank BRI, Lorong 14, La'latang, Tallo, Makassar, Sulawesi Selatan, 90213, Indonesia",bank,-5.1281447,119.43090214027028,Lorong 14,90213,BANK BRI,Indonesia,Sulawesi Selatan,Makassar
+"Bank BRI, Jalan Cendrawasih, Kunjung Mae, Mariso, Makassar, Sulawesi Selatan, 90230, Indonesia",bank,-5.1496248,119.41332990749827,Jalan Cendrawasih,90230,BANK BRI,Indonesia,Sulawesi Selatan,Makassar
+"Bank BRI, Jalan Slamet Riyadi, Bulogading, Ujung Pandang, Makassar, Sulawesi Selatan, 90171, Indonesia",bank,-5.134297549999999,119.4075050358779,Jalan Slamet Riyadi,90171,BANK BRI,Indonesia,Sulawesi Selatan,Makassar
+"Bank BRI, Jalan Sunu, Kalukuang, Tallo, Makassar, Sulawesi Selatan, 90163, Indonesia",bank,-5.12281535,119.4296375,Jalan Sunu,90163,BANK BRI,Indonesia,Sulawesi Selatan,Makassar
+"Bank BRI, Jalan Amirullah, Maricaya Selatan, Mamajang, Makassar, Sulawesi Selatan, 90131, Indonesia",bank,-5.15228645,119.42021302493373,Jalan Amirullah,90131,BANK BRI,Indonesia,Sulawesi Selatan,Makassar
+"Bank BRI, Jalan Daeng Ngeppe, Balang Baru, Tamalate, Makassar, Sulawesi Selatan, 90224, Indonesia",bank,-5.18028595,119.41669409673094,Jalan Daeng Ngeppe,90224,BANK BRI,Indonesia,Sulawesi Selatan,Makassar
+"Bank BRI, Jalan Tinumbu Lorong 165, Pannampu, Tallo, Makassar, Sulawesi Selatan, 90213, Indonesia",bank,-5.1171513,119.42401484999999,Jalan Tinumbu Lorong 165,90213,BANK BRI,Indonesia,Sulawesi Selatan,Makassar
+"Bank BRI, Jalan Veteran Selatan, Bonto Lebang, Mamajang, Makassar, Sulawesi Selatan, 90132, Indonesia",bank,-5.1646068,119.4211365,Jalan Veteran Selatan,90132,BANK BRI,Indonesia,Sulawesi Selatan,Makassar
+"Bank Bri, Jalan Tinumbu, Layang, Bontoala, Makassar, Sulawesi Selatan, 90213, Indonesia",bank,-5.121078150000001,119.42008806457247,Jalan Tinumbu,90213,BANK BRI,Indonesia,Sulawesi Selatan,Makassar
+"Bank BRI, Jalan Sultan Ibrahim, BLK, Kelurahan Paruga, Bima, Nusa Tenggara Barat, 84119, Indonesia",bank,-8.453071600000001,118.72692490366293,Jalan Sultan Ibrahim,84119,BANK BRI,Indonesia,Nusa Tenggara Barat,Bima
+"Bank BRI, Jalan Trans Kalimantan, Wanasari, Kutai Timur, Kalimantan Timur, 75655, Indonesia",bank,1.0891817,116.8966729,Jalan Trans Kalimantan,75655,BANK BRI,Indonesia,Kalimantan Timur,Kutai Timur
+"BANK BRI, Jalan Raja Pandita, Pelita Kanaan, Malinau, Kalimantan Utara, 77554, Indonesia",bank,3.57729855,116.61714793022695,Jalan Raja Pandita,77554,BANK BRI,Indonesia,Kalimantan Utara,Malinau
+"Bank BRI, Jalan Letda Tantular, Dangin Puri Klod, Dangin Puri Kelod, Denpasar Timur, Bali, 80210, Indonesia",bank,-8.6691778,115.2214089,Jalan Letda Tantular,80210,BANK BRI,Indonesia,Bali,Denpasar Timur
+"Bank BRI, Jalan Trans Sulawesi, Parigi, Parigi Moutong, Sulawesi Tengah, 94471, Indonesia",bank,-0.80957435,120.17403565430963,Jalan Trans Sulawesi,94471,BANK BRI,Indonesia,Sulawesi Tengah,Parigi Moutong
+"Bank BRI, Jalan Imam Bonjol, Klandasan Ulu, Balikpapan, Kalimantan Timur, 76112, Indonesia",bank,-1.2766530999999999,116.83036199308478,Jalan Imam Bonjol,76112,BANK BRI,Indonesia,Kalimantan Timur,Balikpapan
+"Bank BRI, Jalan Jenderal Ahmad Yani, Klandasan Ilir, Balikpapan, Kalimantan Timur, 76121, Indonesia",bank,-1.2729279,116.8383696040165,Jalan Jenderal Ahmad Yani,76121,BANK BRI,Indonesia,Kalimantan Timur,Balikpapan
+"Bank BRI, Jalan Pangeran Antasari, Teluk Lerong Ulu, Samarinda, Kalimantan Timur, 75121, Indonesia",bank,-0.4860158,117.1264867,Jalan Pangeran Antasari,75121,BANK BRI,Indonesia,Kalimantan Timur,Samarinda
+"Bank BRI, Jalan Awang Long, Pasar Pagi, Samarinda, Kalimantan Timur, 75129, Indonesia",bank,-0.5022776,117.1436297,Jalan Awang Long,75129,BANK BRI,Indonesia,Kalimantan Timur,Samarinda
+"Bank BRI, Jalan Kesatrian, Kecamatan Karangasem, Amlapura, Kecamatan Karangasem, Karangasem, Bali, 80811, Indonesia",bank,-8.4492035,115.6155032,Jalan Kesatrian,80811,BANK BRI,Indonesia,Bali,Karangasem
+"Bank BRI, Jalan Gajah Mada, Kecamatan Karangasem, Amlapura, Kecamatan Karangasem, Karangasem, Bali, 80811, Indonesia",bank,-8.447876149999999,115.61632273429001,Jalan Gajah Mada,80811,BANK BRI,Indonesia,Bali,Karangasem
+"BANK BRI, Trans Kalimantan, Karang Indah, Tanah Bumbu, Kalimantan Selatan, Indonesia",bank,-3.7123906,115.600344,Trans Kalimantan,0,BANK BRI,Indonesia,Tanah Bumbu,Karang Indah
+"Bank BRI, Jalan Raya Tanjung, Jambianon, Tanjung, Lombok Utara, Nusa Tenggara Barat, 83300, Indonesia",bank,-8.3581199,116.1496121,Jalan Raya Tanjung,83300,BANK BRI,Indonesia,Nusa Tenggara Barat,Lombok Utara
+"Bank BRI, Jalan Tanjung - Gondang, Tanjung, Lombok Utara, Nusa Tenggara Barat, Indonesia",bank,-8.3561011,116.1553124,Jalan Tanjung - Gondang,0,BANK BRI,Indonesia,Lombok Utara,Tanjung
+"Bank BRI, Jalan Satria Budi, Lingkungan Gebang Baru, Kel. Pagesangan Timur, Pagesangan, Mataram, Kec. Mataram, Nusa Tenggara Barat, 83127, Indonesia",bank,-8.6006093,116.1137587,Jalan Satria Budi,83127,BANK BRI,Indonesia,Nusa Tenggara Barat,Kec. Mataram
+"Bank BRI, Jalan Selaparang, Lingk. Klodan, Kel. Cakranegara Timur, Cakranegara Utara, Mataram, Kec. Cakranegara, Nusa Tenggara Barat, 83235, Indonesia",bank,-8.5874812,116.1305021,Jalan Selaparang,83235,BANK BRI,Indonesia,Nusa Tenggara Barat,Kec. Cakranegara
+"Bank BRI, Jalan Merak, Lingk. Karang Sampalan, Kel. Cakranegara Barat, Cakranegara Utara, Mataram, Kec. Cakranegara, Nusa Tenggara Barat, 83239, Indonesia",bank,-8.586668,116.1234473,Jalan Merak,83239,BANK BRI,Indonesia,Nusa Tenggara Barat,Kec. Cakranegara
+"bank bri, Jalan Merak, Lingk. Karang Sampalan, Kel. Cakranegara Barat, Cakranegara Utara, Mataram, Kec. Cakranegara, Nusa Tenggara Barat, 83239, Indonesia",bank,-8.586669449999999,116.123505,Jalan Merak,83239,BANK BRI,Indonesia,Nusa Tenggara Barat,Kec. Cakranegara
+"Bank BRI, Jalan Ahmad Yani, Jasri, Kecamatan Karangasem, Karangasem, Bali, 80311, Indonesia",bank,-8.4589238,115.60400091700282,Jalan Ahmad Yani,80311,BANK BRI,Indonesia,Bali,Karangasem
+"Bank BRI, Gang Angsoka, Bebandem, Kecamatan Bebandem, Karangasem, Bali, 80813, Indonesia",bank,-8.4409149,115.56259660054931,Gang Angsoka,80813,BANK BRI,Indonesia,Bali,Karangasem
+"Bank BRI, Jalan Raya Manggis, Kecamatan Manggis, Manggis, Kecamatan Manggis, Karangasem, Bali, 80871, Indonesia",bank,-8.50126875,115.5075558520291,Jalan Raya Manggis,80871,BANK BRI,Indonesia,Bali,Karangasem
+"Bank BRI, Jalan Raya Candidasa, Candi Dasa 1, Candidasa, Kecamatan Manggis, Karangasem, Bali, 80851, Indonesia",bank,-8.5076709,115.56354415,Jalan Raya Candidasa,80851,BANK BRI,Indonesia,Bali,Karangasem
+"Bank BRI, Jalan Gang Merpati, Gunung Sari Indah, Dusun Balekuwu, Gunungsari, Lombok Barat, Nusa Tenggara Barat, 83123, Indonesia",bank,-8.540897,116.106938,Jalan Gang Merpati,83123,BANK BRI,Indonesia,Nusa Tenggara Barat,Lombok Barat
+"Bank BRI, Jalan Baledan, Selat Kaja, Selat, Kecamatan Selat, Karangasem, Bali, 80862, Indonesia",bank,-8.43669765,115.47573274628057,Jalan Baledan,80862,BANK BRI,Indonesia,Bali,Karangasem
+"Bank BRI, Jalan Raya Singaraja - Amlapura, Desa Tejakula, Buleleng, Bali, 81173, Indonesia",bank,-8.1230441,115.3360931,Jalan Raya Singaraja - Amlapura,81173,BANK BRI,Indonesia,Bali,Buleleng
+"Bank BRI, Jalan Anggur, Pejarakan, Buleleng, Bali, Nusa Tenggara, 81155, Indonesia",bank,-8.1437379,114.5887456,Jalan Anggur,81155,BANK BRI,Indonesia,Nusa Tenggara,Bali
+"BANK BRI, Jalan A. Yani, RW 1 Desa Benua Raya, DUSUN 2 DESA PADANG KEC. BATI BATI, BATAS DESA PADANG KEC. BATI BATI, Tanah Laut, Kalimantan Selatan, 70852, Indonesia",bank,-3.6000029500000004,114.7029989,Jalan A. Yani,70852,BANK BRI,Indonesia,Kalimantan Selatan,Tanah Laut
+"Bank BRI, 92, Jalan Teuku Umar, Dauh Puri Klod, Dauh Puri Kelod, Denpasar Barat, Bali, 80113, Indonesia",bank,-8.6723405,115.2083899,Jalan Teuku Umar,80113,BANK BRI,Indonesia,Bali,Denpasar Barat
+"Bank BRI, Jalan Tukad Pakerisan, Panjer, Denpasar Selatan, Bali, 80234, Indonesia",bank,-8.6909357,115.2262465,Jalan Tukad Pakerisan,80234,BANK BRI,Indonesia,Bali,Denpasar Selatan
+"Bank BRI, Jalan Setapak, Lingk. Muhajirin Narmada, Krama Jaya, Narmada, Lombok Barat, Nusa Tenggara Barat, 83562, Indonesia",bank,-8.5947104,116.2022296,Jalan Setapak,83562,BANK BRI,Indonesia,Nusa Tenggara Barat,Lombok Barat
+"Bank BRI, Jalan Insinyur Soekarno, Dadaprejo, Kota Batu, Jawa Timur, 65322, Indonesia",bank,-7.9048505,112.572274,Jalan Insinyur Soekarno,65322,BANK BRI,Indonesia,Jawa Timur,Kota Batu
+"Bank BRI, JI-224, Kebondalem, Banyuwangi, Jawa Timur, 68487, Indonesia",bank,-8.4851606,114.1318005,Kebondalem,68487,BANK BRI,Indonesia,Jawa Timur,Banyuwangi
+"Bank BRI, Jalan Ki Sarmidi Mangunsarkoro, Dabasah, Bondowoso, Jawa Timur, 68213, Indonesia",bank,-7.92001235,113.82804930706128,Jalan Ki Sarmidi Mangunsarkoro,68213,BANK BRI,Indonesia,Jawa Timur,Bondowoso
+"Bank BRI, Jalan Sumberkolak, Panarukan, Situbondo, Jawa Timur, 68312, Indonesia",bank,-7.712488199999999,113.9955990133659,Jalan Sumberkolak,68312,BANK BRI,Indonesia,Jawa Timur,Situbondo
+"Bank BRI, Jalan Raya Sesetan, Dauh Puri, Sesetan, Denpasar Selatan, Bali, 80223, Indonesia",bank,-8.6912467,115.2175995,Jalan Raya Sesetan,80223,BANK BRI,Indonesia,Bali,Denpasar Selatan
+"Bank BRI, 298, Jalan Bypass Gatot Subroto, Tonja, Denpasar Utara, Bali, 80115, Indonesia",bank,-8.6354394,115.2312212,Jalan Bypass Gatot Subroto,80115,BANK BRI,Indonesia,Bali,Denpasar Utara
+"Bank BRI, 1, Dokter Kusuma Atmaja, Denpasar, Sumerta Kelod, Denpasar Timur, Bali, 80255, Indonesia",bank,-8.67189715,115.23176998575532,Dokter Kusuma Atmaja,80255,BANK BRI,Indonesia,Bali,Denpasar Timur
+"Bank BRI, Jalan Tukad Yeh Aya, Renon, Denpasar Selatan, Bali, 80239, Indonesia",bank,-8.67723125,115.24148896810547,Jalan Tukad Yeh Aya,80239,BANK BRI,Indonesia,Bali,Denpasar Selatan
+"Bank BRI, 149, Jalan Waturenggong, Panjer, Denpasar Selatan, Bali, 80234, Indonesia",bank,-8.67797475,115.22448644773274,Jalan Waturenggong,80234,BANK BRI,Indonesia,Bali,Denpasar Selatan
+"Bank BRI, Gang Kecil, Dusun Kaliaga 2, Dompu, Nusa Tenggara Barat, Indonesia",bank,-8.17907,117.7376515,Gang Kecil,0,BANK BRI,Indonesia,Dusun Kaliaga 2,Gang Kecil
+"Bank BRI, Jalan Diponegoro, Karimunjawa, Jepara, Jawa Tengah, Indonesia",bank,-5.8798049,110.433991,Jalan Diponegoro,0,BANK BRI,Indonesia,Jawa Tengah,Jepara
+"Bank BRI, Jalan Alun-Alun, Ditotrunan, Lumajang, Jawa Timur, 67312, Indonesia",bank,-8.13663,113.22430953657253,Jalan Alun-Alun,67312,BANK BRI,Indonesia,Jawa Timur,Lumajang
+"Bank BRI, Jalan Raya Nganjuk - Wilangan, Mancon, Nganjuk, Jawa Timur, Jawa, 64414, Indonesia",bank,-7.5672683,111.8463662,Jalan Raya Nganjuk - Wilangan,64414,BANK BRI,Indonesia,Jawa Timur,Nganjuk
+"Bank BRI, Jalan Raya Nganjuk - Wilangan, Guyangan, Nganjuk, Jawa Timur, Jawa, 64414, Indonesia",bank,-7.5847445,111.8804035,Jalan Raya Nganjuk - Wilangan,64414,BANK BRI,Indonesia,Jawa Timur,Nganjuk
+"Bank BRI, Jalan Raya Maospati - Magetan, Sugihwaras, Magetan, Jawa Timur, 63395, Indonesia",bank,-7.6099444,111.4009845,Jalan Raya Maospati - Magetan,63395,BANK BRI,Indonesia,Jawa Timur,Magetan
+"Bank BRI, Jalan Tanjung Pura, Sukadana, Kayong Utara, Kalimantan Barat, Indonesia",bank,-1.2378956,109.9510772,Jalan Tanjung Pura,0,BANK BRI,Indonesia,Kayong Utara,Sukadana
+"Bank BRI, Jalan Serdang Raya, RW 01, Sumur Batu, Kemayoran, Jakarta Pusat, Daerah Khusus Ibukota Jakarta, 10640, Indonesia",bank,-6.1643626,106.8636874,Jalan Serdang Raya,10640,BANK BRI,Indonesia,Daerah Khusus Ibukota Jakarta,Jakarta Pusat
+"Bank BRI, Jalan Jagakarsa, RW 07, Jagakarsa, Jakarta Selatan, Daerah Khusus Ibukota Jakarta, 12620, Indonesia",bank,-6.3267544,106.8207504,Jalan Jagakarsa,12620,BANK BRI,Indonesia,Daerah Khusus Ibukota Jakarta,Jakarta Selatan
+"Bank BRI, Jalan Jagakarsa, RW 03, Jagakarsa, Jakarta Selatan, Daerah Khusus Ibukota Jakarta, 12620, Indonesia",bank,-6.3273061,106.8242203,Jalan Jagakarsa,12620,BANK BRI,Indonesia,Daerah Khusus Ibukota Jakarta,Jakarta Selatan
+"Bank BRI, Jalan Kemang Pratama, Rawalumbu, Bojong Rawalumbu, Kota Bekasi, Jawa Barat, 17114, Indonesia",bank,-6.2771608,106.9894942,Jalan Kemang Pratama,17114,BANK BRI,Indonesia,Jawa Barat,Kota Bekasi
+"Bank BRI, Jalan Merdeka, Pabuaran, Karawaci, Tangerang, Banten, 15520, Indonesia",bank,-6.1785185,106.6236157,Jalan Merdeka,15520,BANK BRI,Indonesia,Banten,Tangerang
+"Bank BRI, Zona Antar Keberangkatan Terminal 3, Pajang, Benda, Tangerang, Banten, 19120, Indonesia",bank,-6.1184697,106.6674699,Zona Antar Keberangkatan Terminal 3,19120,BANK BRI,Indonesia,Banten,Tangerang
+"Bank BRI, Jalan Veteran, Kauman, Kota Magelang, Jawa Tengah, 56121, Indonesia",bank,-7.4742943,110.2150136797242,Jalan Veteran,56121,BANK BRI,Indonesia,Jawa Tengah,Kota Magelang
+"Bank BRI Bekasi, Jalan Insinyur Haji Juanda, Bulak Kapal, Bekasi Jaya, Kota Bekasi, Jawa Barat, 17113, Indonesia",bank,-6.242706200000001,107.00553791480354,Jalan Insinyur Haji Juanda,17113,BANK BRI BEKASI,Indonesia,Jawa Barat,Kota Bekasi
+"Bank BRI, Jalan Raya Parung, Pamager Sari, Parung, Bogor, Jawa Barat, Jawa, 16518, Indonesia",bank,-6.42119915,106.73316541961424,Jalan Raya Parung,16518,BANK BRI,Indonesia,Jawa Barat,Bogor
+"Bank BRI, Jalan Rawasari Selatan, RW 01, Cempaka Putih Timur, Cempaka Putih, Jakarta Pusat, Daerah Khusus Ibukota Jakarta, 10570, Indonesia",bank,-6.18581275,106.87113445,Jalan Rawasari Selatan,10570,BANK BRI,Indonesia,Daerah Khusus Ibukota Jakarta,Jakarta Pusat
+"Bank BRI, Gang Randu, RW 02, Utan Kayu Utara, Matraman, Jakarta Timur, Daerah Khusus Ibukota Jakarta, 13120, Indonesia",bank,-6.1939606000000005,106.86357575253304,Gang Randu,13120,BANK BRI,Indonesia,Daerah Khusus Ibukota Jakarta,Jakarta Timur
+"Bank BRI, Jalan Pengayoman, RW 08, Utan Kayu Utara, Matraman, Jakarta Timur, Daerah Khusus Ibukota Jakarta, 13120, Indonesia",bank,-6.1927472,106.87032864898737,Jalan Pengayoman,13120,BANK BRI,Indonesia,Daerah Khusus Ibukota Jakarta,Jakarta Timur
+"Bank BRI, Jalan Cempaka Putih Tengah I, RW 05, Cempaka Putih Timur, Cempaka Putih, Jakarta Pusat, Daerah Khusus Ibukota Jakarta, 10540, Indonesia",bank,-6.1717352000000005,106.86731759297516,Jalan Cempaka Putih Tengah I,10540,BANK BRI,Indonesia,Daerah Khusus Ibukota Jakarta,Jakarta Pusat
+"Bank BRI, Jalan Cempaka Putih Tengah XXVII, RW 07, Cempaka Putih Timur, Cempaka Putih, Jakarta Pusat, Daerah Khusus Ibukota Jakarta, 10540, Indonesia",bank,-6.1760192499999995,106.8723764025723,Jalan Cempaka Putih Tengah XXVII,10540,BANK BRI,Indonesia,Daerah Khusus Ibukota Jakarta,Jakarta Pusat
+"Bank BRI, Jalan Garuda, RW 02, Kemayoran, Jakarta Pusat, Daerah Khusus Ibukota Jakarta, 10620, Indonesia",bank,-6.1627388,106.84265099999999,Jalan Garuda,10620,BANK BRI,Indonesia,Daerah Khusus Ibukota Jakarta,Jakarta Pusat
+"Bank BRI, Jalan Lapangan Tembak, RW 02, Cibubur, Ciracas, Jakarta Timur, Daerah Khusus Ibukota Jakarta, 13730, Indonesia",bank,-6.34702705,106.8734164,Jalan Lapangan Tembak,13730,BANK BRI,Indonesia,Daerah Khusus Ibukota Jakarta,Jakarta Timur
+"Bank BRI, Jalan Jeruk, RW 01, Jagakarsa, Jakarta Selatan, Daerah Khusus Ibukota Jakarta, 12620, Indonesia",bank,-6.33566805,106.82671241241204,Jalan Jeruk,12620,BANK BRI,Indonesia,Daerah Khusus Ibukota Jakarta,Jakarta Selatan
+"Bank BRI, Jalan Haji Remaih, RW 05, Baru, Pasar Rebo, Jakarta Timur, Daerah Khusus Ibukota Jakarta, 13790, Indonesia",bank,-6.3247791499999995,106.84571075,Jalan Haji Remaih,13790,BANK BRI,Indonesia,Daerah Khusus Ibukota Jakarta,Jakarta Timur
+"Bank BRI Siliwangi Bekasi, Jalan Raya Narogong, Rawalumbu, Bojong Rawalumbu, Kota Bekasi, Jawa Barat, 17116, Indonesia",bank,-6.2934545,106.9842752095118,Jalan Raya Narogong,17116,BANK BRI SILIWANGI BEKASI,Indonesia,Jawa Barat,Kota Bekasi
+"Bank BRI, Jalan Brigjen Hasan Kasim, Kalidoni, Palembang, Sumatera Selatan, Sumatera, 30114, Indonesia",bank,-2.94877,104.7856103,Jalan Brigjen Hasan Kasim,30114,BANK BRI,Indonesia,Sumatera Selatan,Palembang
+"Bank BRI, Jalan Kolonel R. Iteh Zen, RW. 02, Kel. 24 ILIR, Kec. Bukit Kecil, Palembang, Bukit Kecil, Palembang, Sumatera Selatan, 30124, Indonesia",bank,-2.9840602499999997,104.75557837113058,Jalan Kolonel R. Iteh Zen,30124,BANK BRI,Indonesia,Sumatera Selatan,Palembang
+"Bank BRI, Jl.Baiturrahman, Sekupang, Batam, Kepulauan Riau, 29425, Indonesia",bank,1.1083052,103.9533554,Sekupang,29425,BANK BRI,Indonesia,Kepulauan Riau,Batam
+"Bank BRI, Jl.Pertiwi, Bukit Tempayan, Batam, Kepulauan Riau, 29439, Indonesia",bank,1.0516847,103.9681888,Bukit Tempayan,29439,BANK BRI,Indonesia,Kepulauan Riau,Batam
+"Bank BRI, Jalan Raya Babelan, Babelan Kota, Kabupaten Bekasi, Jawa Barat, 17611, Indonesia",bank,-6.17243195,107.04586072464828,Jalan Raya Babelan,17611,BANK BRI,Indonesia,Jawa Barat,Kabupaten Bekasi
+"Bank Bri, Jalan Kombe Haji Umar, Pagar Alam Selatan, Pagar Alam, Sumatera Selatan, Indonesia",bank,-4.0242317,103.2551725,Jalan Kombe Haji Umar,0,BANK BRI,Indonesia,Pagar Alam,Pagar Alam Selatan
+"Bank BRI, Jalan Raya Puncak, Cipayung Girang, Megamendung, Bogor, Jawa Barat, Jawa, 16770, Indonesia",bank,-6.65165335,106.90703539655391,Jalan Raya Puncak,16770,BANK BRI,Indonesia,Jawa Barat,Bogor
+"Bank BRI, Jalan Kerio Bijak, Payaraman, Ogan Ilir, Sumatera Selatan, Indonesia",bank,-3.4428078,104.5992151,Jalan Kerio Bijak,0,BANK BRI,Indonesia,Ogan Ilir,Payaraman
+"Bank BRI, Lubuk Keliat, Ogan Ilir, Sumatera Selatan, Indonesia",bank,-3.4414614,104.6710493,Lubuk Keliat,0,BANK BRI,Indonesia,Ogan Ilir,Lubuk Keliat
+"Bank BRI, Jalan Lintas Sumatera, Bandar Jaya, Lampung Tengah, Lampung, 34162, Indonesia",bank,-4.9316714,105.212334,Jalan Lintas Sumatera,34162,BANK BRI,Indonesia,Lampung,Lampung Tengah
+"Bank BRI, Jalan Soeprapto, Tengah Padang, Bengkulu, Ratu Samban, Bengkulu, 38118, Indonesia",bank,-3.7953679,102.2642029,Jalan Soeprapto,38118,BANK BRI,Indonesia,Bengkulu,Ratu Samban
+"Bank BRI, Jalan Hang Jebat, Kecamatan Minas, Kabupaten Siak, Riau, Indonesia",bank,0.7415443,101.4540393,Jalan Hang Jebat,Riau,BANK BRI,Indonesia,Kabupaten Siak,Kecamatan Minas
+"Bank BRI, Jalan Alamanda, Limbungan Baru, Kelurahan Limbungan Baru, Kabupaten Kampar, Riau, 28261, Indonesia",bank,0.5606136,101.4410091,Jalan Alamanda,28261,BANK BRI,Indonesia,Riau,Kabupaten Kampar
+"Bank BRI, Jalan Tuanku Tambusai, RW.03, Kelurahan Kampung Melayu, Kabupaten Kampar, Riau, 24566, Indonesia",bank,0.5067896,101.4374797,Jalan Tuanku Tambusai,24566,BANK BRI,Indonesia,Riau,Kabupaten Kampar
+"Bank BRI, Jalan Haji Agussalim, Bangkinang, Kabupaten Kampar, Riau, 28411, Indonesia",bank,0.3428649,101.0238254,Jalan Haji Agussalim,28411,BANK BRI,Indonesia,Riau,Kabupaten Kampar
+"Bank BRI, Jalan Lintas Bangkinang - Pekanbaru, Alay, Kabupaten Kampar, Riau, 28461, Indonesia",bank,0.3536755,101.2176408,Jalan Lintas Bangkinang - Pekanbaru,28461,BANK BRI,Indonesia,Riau,Kabupaten Kampar
+"bank BRI, Jalan Lintas Bangkinang - Pekanbaru, desa Pulau, Kabupaten Kampar, Riau, Indonesia",bank,0.3599561,101.2354624,Jalan Lintas Bangkinang - Pekanbaru,Riau,BANK BRI,Indonesia,Kabupaten Kampar,desa Pulau
+"Bank BRI, Jalan D.I. Pandjaitan, Bangkinang, Kabupaten Kampar, Riau, 28411, Indonesia",bank,0.33628735,101.02251398074824,Jalan D.I. Pandjaitan,28411,BANK BRI,Indonesia,Riau,Kabupaten Kampar
+"Bank BRI, Jalan Veteran, Kelurahan Bungo Timur, Bungo, Jambi, 37211, Indonesia",bank,-1.4817515,102.11896427246964,Jalan Veteran,37211,BANK BRI,Indonesia,Jambi,Bungo
+"Bank BRI, Jalan Dame, Medan Helvetia, Kota Medan, Sumatera Utara, 20117, Indonesia",bank,3.6098275,98.6453229,Jalan Dame,20117,BANK BRI,Indonesia,Sumatera Utara,Kota Medan
+"Bank BRI, Jalan Brigjen Zein Hamid, Suka Maju, Gedung Johor, Medan Johor, Kota Medan, Sumatera Utara, 20146, Indonesia",bank,3.5369089,98.6841908,Jalan Brigjen Zein Hamid,20146,BANK BRI,Indonesia,Sumatera Utara,Kota Medan
+"BANK BRI, Jalan Raya Siteba, Kampung Lapai Baru, Padang, Sumatera Barat, 25143, Indonesia",bank,-0.896803,100.3664429,Jalan Raya Siteba,25143,BANK BRI,Indonesia,Sumatera Barat,Padang
+"Bank BRI, Jalan Jendral Sudirman, Ranah Dalam 1, Padang, Sumatera Barat, 25112, Indonesia",bank,-0.9487675,100.3634928,Jalan Jendral Sudirman,25112,BANK BRI,Indonesia,Sumatera Barat,Padang
+"Bank BRI, Jalan Adinegoro, Padang, Sumatera Barat, Sumatera, 25586, Indonesia",bank,-0.8338637,100.32737030007479,Jalan Adinegoro,25586,BANK BRI,Indonesia,Sumatera Barat,Padang
+"Bank BRI, Jalan Lintas Sumatera, Padang Pariaman, Sumatera Barat, 25561, Indonesia",bank,-0.5230178,100.0605221,Jalan Lintas Sumatera,25561,BANK BRI,Indonesia,Sumatera Barat,Padang Pariaman
+"Bank BRI, Jalan Raya Medan-Tebing Tinggi, Lingkungan Tempel, Simpang Tiga Pekan, Perbaungan, Serdang Bedagai, Sumatera Utara, Indonesia",bank,3.5672734,98.9556625,Jalan Raya Medan-Tebing Tinggi,0,BANK BRI,Indonesia,Serdang Bedagai,Perbaungan
+"Bank BRI, Jalan Sultan Hasanuddin, Lubuk Pakam I-II, Lubuk Pakam, Deli Serdang, Sumatera Utara, Indonesia",bank,3.5607987000000003,98.8791267,Jalan Sultan Hasanuddin,0,BANK BRI,Indonesia,Deli Serdang,Lubuk Pakam
+"BANK BRI, Jalan Sultan Iskandar Muda, Punge Blang Cut, Jaya Baru, Banda Aceh, Aceh, 23233, Indonesia",bank,5.5491468,95.3108689,Jalan Sultan Iskandar Muda,23233,BANK BRI,Indonesia,Aceh,Banda Aceh
+"Bank BRI, Jalan Sri Ratu Safiatuddin, Peunayong, Kuta Alam, Banda Aceh, Aceh, 23121, Indonesia",bank,5.5566242500000005,95.32112089189496,Jalan Sri Ratu Safiatuddin,23121,BANK BRI,Indonesia,Aceh,Banda Aceh
+"BANK BRI, Jalan Teungku Nyak Arief, Jeulingke, Syiah Kuala, Banda Aceh, Aceh, 24415, Indonesia",bank,5.5750435,95.34576959586728,Jalan Teungku Nyak Arief,24415,BANK BRI,Indonesia,Aceh,Banda Aceh
+"Bank BRI, Jalan Merdeka, Lancang Garam, Lhokseumawe, Aceh, 24351, Indonesia",bank,5.1782741,97.15085379063916,Jalan Merdeka,24351,BANK BRI,Indonesia,Aceh,Lhokseumawe
+"Bank BRI, Jalan Merdeka, Simpang Empat, Lhokseumawe, Aceh, 24351, Indonesia",bank,5.17897285,97.14699789779802,Jalan Merdeka,24351,BANK BRI,Indonesia,Aceh,Lhokseumawe
+"Bank BRI, Jalan Raya Medan Banda Aceh, Muara Satu, Lhokseumawe, Aceh, 24353, Indonesia",bank,5.2185873,97.0532844,Jalan Raya Medan Banda Aceh,24353,BANK BRI,Indonesia,Aceh,Lhokseumawe
+"Bank BRI, Tebing Tinggi, Jalan Dokter Sutomo, Tebing Tinggi, Kota Tebing Tinggi, Sumatera Utara, 20600, Indonesia",bank,3.3273456,99.1647064,Tebing Tinggi,20600,BANK BRI,Indonesia,Sumatera Utara,Kota Tebing Tinggi
+"BANK BRI, Jalan Banda Aceh-Medan, Lambaro, Ingin Jaya, Aceh Besar, Aceh, Sumatera, 23123, Indonesia",bank,5.5108366,95.357337,Jalan Banda Aceh-Medan,23123,BANK BRI,Indonesia,Aceh,Aceh Besar
+"Bank BRI, Jalan Lintas Tengah Sumatera, Mongal, Laut Tawar, Aceh Tengah, Aceh, 24519, Indonesia",bank,4.62234025,96.84323900000001,Jalan Lintas Tengah Sumatera,24519,BANK BRI,Indonesia,Aceh,Aceh Tengah
+"Bank BRI, Jalan K.H. Zainul Arifin, Stabat Baru, Langkat, Sumatera Utara, 20811, Indonesia",bank,3.7557291,98.45316680627404,Jalan K.H. Zainul Arifin,20811,BANK BRI,Indonesia,Sumatera Utara,Langkat
+"Bank BRI, Jalan Jembatan Bandung, RW 03, Pinang Ranti, Makasar, Jakarta Timur, Daerah Khusus Ibukota Jakarta, 13820, Indonesia",bank,-6.3002441,106.8900108,Jalan Jembatan Bandung,13820,BANK BRI,Indonesia,Daerah Khusus Ibukota Jakarta,Jakarta Timur
+"Bank BRI, Jalan Pagarsih Barat, Jamika, Bojongloa Kaler, Bandung, Jawa Barat, Jawa, 40181, Indonesia",bank,-6.922563500000001,107.5912281,Jalan Pagarsih Barat,40181,BANK BRI,Indonesia,Jawa Barat,Bandung
+"Bank BRI, Jalan Jenderal Gatot Subroto, Petisah Tengah, Petisah, Medan Petisah, Kota Medan, Sumatera Utara, 20112, Indonesia",bank,3.5918106,98.6632052,Jalan Jenderal Gatot Subroto,20112,BANK BRI,Indonesia,Sumatera Utara,Kota Medan
+"Bank BRI, Gang Teungku Yacos, Beurawe, Kuta Alam, Banda Aceh, Aceh, 23121, Indonesia",bank,5.55806895,95.33060227135189,Gang Teungku Yacos,23121,BANK BRI,Indonesia,Aceh,Banda Aceh
+"Bank BRI, Jalan Mohammad Daud Beureueh, Bandar Baru, Kuta Alam, Banda Aceh, Aceh, 23126, Indonesia",bank,5.5630446,95.33437985,Jalan Mohammad Daud Beureueh,23126,BANK BRI,Indonesia,Aceh,Banda Aceh
+"Bank BRI, Jalan Letnan Jenderal Siswondo Parman, Lowokwaru, Kota Malang, Jawa Timur, 65122, Indonesia",bank,-7.95608,112.6381104,Jalan Letnan Jenderal Siswondo Parman,65122,BANK BRI,Indonesia,Jawa Timur,Kota Malang
+"Bank BRI, Mata Ie, Surien, Darul Imarah, Aceh Besar, Aceh, 23352, Indonesia",bank,5.517486399999999,95.30326437588653,Mata Ie,23352,BANK BRI,Indonesia,Aceh,Aceh Besar
+"Bank BRI, Jalan Raya Ketewel, Ketewel, Gianyar, Bali, 80513, Indonesia",bank,-8.6365212,115.2826412,Jalan Raya Ketewel,80513,BANK BRI,Indonesia,Bali,Gianyar
+"Bank BRI, Jalan TGH. Lopan, BTN Griya Labuapi Permai, Kecamatan Labuapi, Lombok Barat, Nusa Tenggara Barat, 83361, Indonesia",bank,-8.6314098,116.1258974,Jalan TGH. Lopan,83361,BANK BRI,Indonesia,Nusa Tenggara Barat,Lombok Barat
+"BANK BRI, Jalan Terusan Jakarta, Antapani Kulon, Antapani, Bandung, Jawa Barat, 40291, Indonesia",bank,-6.9133546,107.6591866,Jalan Terusan Jakarta,40291,BANK BRI,Indonesia,Jawa Barat,Bandung
+"Bank BRI, Jalan Soekarno Hatta, Wae Mata, Labuan Bajo, Manggarai Barat, Nusa Tenggara Timur, Nusa Tenggara, 86554, Indonesia",bank,-8.4944249,119.8786038,Jalan Soekarno Hatta,86554,BANK BRI,Indonesia,Nusa Tenggara,Nusa Tenggara Timur
+"Bank BRI, Jalan Kamboja, Dangin Puri Kangin, Denpasar Utara, Bali, 80236, Indonesia",bank,-8.65449365,115.22494555926357,Jalan Kamboja,80236,BANK BRI,Indonesia,Bali,Denpasar Utara
+"Bank BRI, Jalan Melati, Dangin Puri Kangin, Denpasar Utara, Bali, 80233, Indonesia",bank,-8.65086475,115.22227887443543,Jalan Melati,80233,BANK BRI,Indonesia,Bali,Denpasar Utara
+"Bank BRI, Jalan Trenggana, Penatih, Denpasar Timur, Bali, 80238, Indonesia",bank,-8.621334350000001,115.24068144104719,Jalan Trenggana,80238,BANK BRI,Indonesia,Bali,Denpasar Timur
+"Bank BRI, Jalan Benteng Durstede Belakang, Saparua, Maluku Tengah, Maluku, Indonesia",bank,-3.571999,128.6571433,Jalan Benteng Durstede Belakang,Maluku,BANK BRI,Indonesia,Maluku Tengah,Saparua
+"Bank BRI, Jalan Teratai, Tanjungpinang Kota, Tanjungpinang, Kepulauan Riau, Sumatera, 29112, Indonesia",bank,0.9290927,104.4433082,Jalan Teratai,29112,BANK BRI,Indonesia,Kepulauan Riau,Tanjungpinang
+"Bank BRI, Jalan Chairil Anwar, Bulak Kapal, Kota Bekasi, Jawa Barat, 17113, Indonesia",bank,-6.26031485,107.01793236008811,Jalan Chairil Anwar,17113,BANK BRI,Indonesia,Jawa Barat,Kota Bekasi
+"Bank BRI, Jalan Sudanco Supriyadi, Nganjuk, Jawa Timur, 64414, Indonesia",bank,-7.6005262,111.9006906776483,Jalan Sudanco Supriyadi,64414,BANK BRI,Indonesia,Jawa Timur,Nganjuk
+"Bank BRI, Wasior, Teluk Wondama, Papua Barat, Indonesia",bank,-2.72586175,134.51122507784123,Teluk Wondama,0,BANK BRI,Indonesia,Teluk Wondama,Wasior
+"Bank BRI, Jalan Pangeran Antasari, Mendawai, Kalimantan Tengah, 74111, Indonesia",bank,-2.6749758,111.6311783,Jalan Pangeran Antasari,74111,BANK BRI,Indonesia,Kalimantan Tengah,Mendawai
+"Bank BRI, Weda, Halmahera Tengah, Maluku Utara, Indonesia",bank,0.33514,127.8797357,Halmahera Tengah,0,BANK BRI,Indonesia,Halmahera Tengah,Weda
+"bank BRI, Rumpa, BONDE, Polewali Mandar, Sulawesi Barat, Indonesia",bank,-3.4763551,119.140624,BONDE,0,BANK BRI,Indonesia,Polewali Mandar,BONDE
+"BRI, Jalan Kyai Haji Hasyim Ashari, RW 07, Cideng, Gambir, Jakarta Pusat, Daerah Khusus Ibukota Jakarta, 10140, Indonesia",bank,-6.1662293,106.8014229,Jalan Kyai Haji Hasyim Ashari,10140,BRI,Indonesia,Daerah Khusus Ibukota Jakarta,Jakarta Pusat
+"BRI, Jalan Kelapa Dua Raya, RW 06, Kelapa Dua, Kebon Jeruk, Jakarta Barat, Daerah Khusus Ibukota Jakarta, 11550, Indonesia",bank,-6.2158637,106.7694078,Jalan Kelapa Dua Raya,11550,BRI,Indonesia,Daerah Khusus Ibukota Jakarta,Jakarta Barat
+"Bank BRI, Wasior, Teluk Wondama, Papua Barat, Indonesia",bank,-2.725861,134.51121997987013,Teluk Wondama,0,BANK BRI,Indonesia,Teluk Wondama,Wasior
+"Bank Rakyat Indonesia, Jalan RA. Kartini, Tegal Gede, Jember, Jawa Timur, Jawa, 68131, Indonesia",bank,-8.17177505,113.70123768309122,Jalan RA. Kartini,68131,BANK RAKYAT INDONESIA,Indonesia,Jawa Timur,Jember
+"bri, Jalan Insinyur Haji Juanda, Bulak Kapal, Bekasi Jaya, Kota Bekasi, Jawa Barat, 17113, Indonesia",bank,-6.2424783,107.00452776708195,Jalan Insinyur Haji Juanda,17113,BRI,Indonesia,Jawa Barat,Kota Bekasi
+"bni, Gang Durian, Buleleng, Bali, 81152, Indonesia",bank,-8.2599602,115.0282727,Gang Durian,81152,BNI,Indonesia,Bali,Buleleng
+"BRI, Jalan Bank Rakyat, Kertak Baru Ulu, Banjarmasin Tengah, Banjarmasin, Kalimantan Selatan, 70111, Indonesia",bank,-3.32270655,114.59283855252013,Jalan Bank Rakyat,70111,BRI,Indonesia,Kalimantan Selatan,Banjarmasin
+"BRI, Bank Rakyat Indonesia. PT, Mataram, Nusa Tenggara Barat, 83111, Indonesia",bank,-8.565931500000001,116.0810162251519,Bank Rakyat Indonesia. PT,83111,BRI,Indonesia,Nusa Tenggara Barat,Mataram
